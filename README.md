@@ -3,7 +3,7 @@
 <br>
 
 
-![Descrição do vídeo](images\Welcome.gif)
+<img loading="lazy" src="images\Welcome.gif"/>
 
 
 <p align="center">
@@ -62,7 +62,7 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70px" />         
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px" />
-<img loading="lazy"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/>      
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/>      
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="70px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="70px"/>
@@ -72,10 +72,8 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 </div>  
 
 ## 🔥 Github Stats
-
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img align="right" width="40%" src="images/gato2.png"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20;">
+<img align="right" width="32%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV3dXlobXgyc3hrN2luamFydm51YjNvdjVlMnU5YnBnZ2FhOWZvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGSMV4l7QU3sAzC/giphy.gif" />
   <div>
     <a href="https://github.com/APSS892">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APSS892&layout=compact&langs_count=7&theme=dracula"/>
@@ -83,7 +81,6 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=APSS892&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
 </div>
-
 
 ## 📘 Minhas contribuições
 
