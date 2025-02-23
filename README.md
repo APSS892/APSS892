@@ -103,7 +103,8 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 
 ## 
 <img align="center" width="20%" src="images/gato2.png"/>
-![Snake animation](https://github.com/APSS892/APSS892/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/APSS892/APSS892/output/github-contribution-grid-snake.svg
+)
 
 
 
