@@ -73,7 +73,7 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 
 ## 🔥 Github Stats
 <div style="display: flex; align-items: center; justify-content: center; gap: 20;">
-<img align="right" width="35%"  height="400em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV3dXlobXgyc3hrN2luamFydm51YjNvdjVlMnU5YnBnZ2FhOWZvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGSMV4l7QU3sAzC/giphy.gif" />
+<img align="right" width="30%"  height="380em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV3dXlobXgyc3hrN2luamFydm51YjNvdjVlMnU5YnBnZ2FhOWZvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGSMV4l7QU3sAzC/giphy.gif" />
   <div>
     <a href="https://github.com/APSS892">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APSS892&layout=compact&langs_count=7&theme=dracula"/>
